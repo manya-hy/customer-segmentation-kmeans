@@ -1,0 +1,6 @@
+Cluster,Customer_Count,Average_Age,Average_Income,Average_Spending,Spending_Group
+0,20,46.25,26.75,18.35,Low Spenders
+1,54,25.19,41.09,62.24,High Spenders
+2,40,32.88,86.1,81.53,High Spenders
+3,39,39.87,86.1,19.36,Low Spenders
+4,47,55.64,54.38,48.85,Medium Spenders
